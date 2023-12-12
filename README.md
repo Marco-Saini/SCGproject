@@ -8,5 +8,5 @@
   <li>Costo energia totale (Marco)</li>
   <li>Traporti e oneri di vendita + acquista (Ariana)</li>
   <li>Costo di vendita e provvigioni (Ariana)</li>
-  
+  <li></li>
 </ul>
